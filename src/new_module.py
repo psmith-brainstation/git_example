@@ -1,3 +1,4 @@
+
 def new_function(param):
     assert isinstance(param,str), "Input must be a string"
     name_list=param.split(" ")
@@ -12,3 +13,9 @@ def new_function(param):
     final_name=" ".join(new_name)
     print(f'Your Pig Latin Name is {final_name}')
     return final_name
+
+def square(x):
+    assert isinstance(x, int), 'input must be an integer'
+    y = x**2
+    return(y)
+
