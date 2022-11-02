@@ -18,7 +18,7 @@ def my_function():
 
 def newfunction():
 
-    print('Paul git')
+    print('Paul wears suspenders')
 
 if __name__ == "__main__":
     newfunction()
