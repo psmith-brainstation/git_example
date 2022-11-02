@@ -3,7 +3,7 @@
 def is_palindrome(word):
     '''
     input == a string
-    output == True if palimdrome, else false
+    output == True if palimdrome, else False
     '''
     letters = list(word)
     letters.insert(0, 'x')
