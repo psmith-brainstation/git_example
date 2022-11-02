@@ -15,5 +15,11 @@ def my_function():
     logger.info("Hello World")
 
 
+
+def newfunction():
+
+    print('Paul git')
+
 if __name__ == "__main__":
-    my_function()
+    newfunction()
+
