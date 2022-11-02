@@ -2,4 +2,5 @@
 
 
 
-### pf test
+### palindrome.py
+This file contains a function that detects palindromes.
